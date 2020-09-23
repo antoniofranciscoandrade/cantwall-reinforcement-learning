@@ -1,0 +1,7 @@
+gym
+pywin32
+numpy
+keras
+tensorflow
+pandas
+matplotlib
